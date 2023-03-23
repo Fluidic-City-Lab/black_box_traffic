@@ -43,17 +43,14 @@ Adversarial examples from FGSM and BIM change the predictions of a trained GCGRN
 
 <img width="1197" alt="hero" src="https://user-images.githubusercontent.com/15305740/138611368-770e1c71-30d3-42ff-8ddf-cba7de80cf29.png">
 
-
 -------
 ## Cite
 
 ```
-@inproceedings{poudel2022learning,
-  title={Learning to Control DC Motor for Micromobility in Real Time with Reinforcement Learning},
-  author={Poudel, Bibek and Watson, Thomas and Li, Weizi},
-  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)},
-  pages={1248--1254},
-  year={2022},
-  organization={IEEE}
+@InProceedings{Poudel2021Attack,
+  author = {Bibek Poudel and Weizi Li},
+  title = {Black-box Adversarial Attacks on Network-wide Multi-step Traffic State Prediction Models},
+  booktitle = {IEEE International Conference on Intelligent Transportation Systems},
+  year = {2021},
 }
 ```
